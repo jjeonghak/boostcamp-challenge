@@ -1,5 +1,9 @@
 # Day 02
 
+![부스트캠프웹모바일 커버용](https://github.com/user-attachments/assets/e6eaaf1a-32d9-4bdc-b932-e7e4b689688d)
+
+<br>
+
 ## 용어 정리  
 가상머신(virtual machine) : os 구축을 위한 환경제공  
 시스템 가상머신 : 운영체제가 직접 프로그램 제어하는 것처럼 하드웨어에서 실행되는 베어메탈 기반 가상화  
