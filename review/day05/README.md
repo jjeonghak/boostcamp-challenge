@@ -1,5 +1,7 @@
 # 1주차 회고
 
+![부스트캠프웹모바일 커버용](https://github.com/user-attachments/assets/a00b9433-c4ff-4db1-90a6-d4ab3b86afdf)
+
 <br>
 
 ## 아쉬운 점
