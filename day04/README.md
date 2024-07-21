@@ -1,5 +1,9 @@
 # Day 04
 
+![부스트캠프웹모바일 커버용](https://github.com/user-attachments/assets/c4e4f540-356e-4dc5-9142-a6a300bda344)
+
+<br>
+
 ## Allocation of Physical Memory  
 * 메모리는 OS 상주영역과 사용자 프로세스 영역으로 나누어 사용  
 
