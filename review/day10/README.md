@@ -1,4 +1,4 @@
-# 1주차 회고
+# 2주차 회고
 
 ![부스트캠프웹모바일 커버용](https://github.com/user-attachments/assets/592dc51f-e3bd-44a3-8bc4-6854b20d47dd)
 
